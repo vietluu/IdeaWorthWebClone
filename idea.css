@@ -17,7 +17,7 @@ body {
     height: auto;
     max-width: 2160px;
     scroll-behavior: smooth;
-    display: grid;
+ 
 }
 
 .logo {
